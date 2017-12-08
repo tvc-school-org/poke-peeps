@@ -1,0 +1,8 @@
+.pokemon-card {
+   max-width: 100px;
+   margin-left: 25px;
+}
+
+.pokemon-name {
+  text-align: center;
+}
